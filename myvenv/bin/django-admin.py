@@ -1,4 +1,4 @@
-#!/Users/ameliawilliams/Documents/Ivy-Tech/Current-Classes/SDEV-220/djangogirls/myvenv/bin/python
+#!/Users/ameliawilliams/Documents/Ivy-Tech/Current-Classes/SDEV-220/djangogirls/myvenv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
